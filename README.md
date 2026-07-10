@@ -24,7 +24,7 @@ RESUMEN (MAS UTILIZADOS)
 
 #  Git
 
-PermiteN trabajar en equipo, guardar cambios, crear ramas y administrar versiones del código.
+Permiten trabajar en equipo, guardar cambios, crear ramas y administrar versiones del código.
 
 ---
 
