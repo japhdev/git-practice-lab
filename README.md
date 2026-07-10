@@ -1,6 +1,6 @@
-# Comandos esenciales para desarrolladores
+# Comandos esenciales de GIT
 
-Guía de referencia con los comandos más utilizados en entornos profesionales de desarrollo de software.
+Guía de referencia con los comandos más utilizados en git.
 
 ---
 
